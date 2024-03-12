@@ -10,6 +10,8 @@ Hi There, I'm Miseon Im! 👋
 
 ## 📞 Contacts.
 
+**Resume:** [웹_이력서_URL](https://www.rallit.com/hub/resumes/275472/%EC%9E%84%EB%AF%B8%EC%84%A0)
+
 **Email:** [soup7912@gmail.com](mailto:soup7912@gmail.com)
 
 **Blog:** https://velog.io/@bluebluerabbit

@@ -31,6 +31,7 @@ Hi There, I'm Miseon Im! 👋
 
 |기간|구분|활동내역|비고|
 |:-:|:-:|--|--|
+|06.01 ~ |정규직(재직)|[여기우리](https://ease-team.framer.website/) 재직||
 |01.15 ~ 03.21|정규직(퇴사)|(주)에이비에이치 재직|[경력기술서](https://miseon-im-portfolio.oopy.io/bcc9e268-a6d7-48dc-b4ca-e8968f6db2b7)|
 |02.02 ~ 02.22|공부|Modern JavaScript Deep Dive 스터디|[블로그](https://velog.io/@bluebluerabbit/series/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-%EC%8A%A4%ED%84%B0%EB%94%94), [깃허브](https://github.com/wdahlia/JS-Study)|
 |🚩 **2024**||🎉 개발 첫 커리어 시작!||

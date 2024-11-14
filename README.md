@@ -19,13 +19,11 @@ Hi There, I'm Miseon Im! 👋
 **Portfolio:** https://miseon-im-portfolio.oopy.io
 
 ## 🔨 Stack.
-**Tool**: Git, Visual Studio Code, Docker
+**Tool**: Git, Visual Studio Code, Docker, Vercel
 
-**Front-End**: React, Vue.js, Next.js, HTML/CSS, JavaScript, TypeScript
+**Front-End**: Svelte, React/Next.js, Vue.js, HTML/CSS(SCSS, TailwindCSS), JavaScript, TypeScript
 
-**Back-End**: Node.js, Express, SQL, AWS
-
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=20203218)](https://solved.ac/profile/****)
+**Back-End**: Node.js, Express, SQL(PostgreSQL, MySQL), Prisma, AWS
 
 ## 📚 활동 내역
 
